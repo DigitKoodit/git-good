@@ -3,9 +3,11 @@ Some Git commads that DigitKoodit-developers have found useful
 
 
 #Resources 
-[Atlassian Git](https://www.atlassian.com/git)
+[Git basics](https://try.github.io/) - good 15 minutes training
 
-[Git workflow](http://nvie.com/posts/a-successful-git-branching-model/)
+[Atlassian Git](https://www.atlassian.com/git) - documentation from basics to more advanced stuff
+
+[Git workflow](http://nvie.com/posts/a-successful-git-branching-model/) - awesome workflow how to use Git in larger projects by yourself or collaboratively as well 
   
 ##Common 
 	- HEAD 		: current state

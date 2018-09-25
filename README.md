@@ -7,7 +7,11 @@ Some Git commads that DigitKoodit-developers have found useful
 
 [Atlassian Git](https://www.atlassian.com/git) - documentation from basics to more advanced stuff
 
+[Learning branching](https://learngitbranching.js.org/) - An interactive Git visualization tool to educate and challenge
+
 [Git workflow](http://nvie.com/posts/a-successful-git-branching-model/) - awesome workflow how to use Git in larger projects by yourself or collaboratively as well 
+
+[Git workflow animated](https://veerasundar.com/blog/2018/03/gitflow-animated/) - Learn Git workflow with interactive visual playground
   
 ## Common 
 	HEAD 		: current state

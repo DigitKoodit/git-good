@@ -2,7 +2,7 @@
 Some Git commads that DigitKoodit-developers have found useful
 
 
-#Resources 
+# Resources 
 [Git basics](https://try.github.io/) - good 15 minutes training
 
 [Atlassian Git](https://www.atlassian.com/git) - documentation from basics to more advanced stuff
